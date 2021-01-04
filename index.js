@@ -15,10 +15,10 @@ import ImageItem from './ImageItem';
 
 const styles = StyleSheet.create({
   wrapper: {
-    flexGrow: 1,
+    flex: 1,
   },
   loader: {
-    flexGrow: 1,
+    flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
   },
